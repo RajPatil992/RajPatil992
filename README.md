@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RajPatil992
-- 👀 I’m interested in ...web development and compitative programming
+- 👀 I’m interested in ...web development 
 - 🌱 I’m currently learning ...web development and c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...By Whatsapp no 9921985417
