@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RajPatil992
+- 👋 Hi, I’m Rajkumar Shivajirao Jambhale
 - 👀 I’m interested in ...web development 
 - 🌱 I’m currently learning ...web development and c++
 - 💞️ I’m looking to collaborate on ...
