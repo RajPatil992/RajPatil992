@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rajkumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **HTML,CSS,JS,Java,C,Oracle,Expressjs**
 
